@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "La Nostra Storia",
+    "materials": "Materiali",
+    "projects": "Applicazioni",
+    "contact": "Contatti",
+    "cta": "Contattaci"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Pietrasanta, Toscana — Dal 1950",
+      "headline": "La Pietra\ncome Arte.",
+      "subheadline": "Tre generazioni. Un'unica ossessione: il marmo italiano più pregiato.",
+      "cta_primary": "Scopri i Materiali",
+      "cta_secondary": "La Nostra Storia"
+    },
+    "stats": {
+      "years": "70+",
+      "years_label": "Anni di Eccellenza",
+      "sqm": "14.400",
+      "sqm_label": "mq di Struttura",
+      "families": "6+",
+      "families_label": "Famiglie di Pietra",
+      "finishes": "3",
+      "finishes_label": "Finiture Esclusive"
+    },
+    "featured_materials": {
+      "label": "Materiali",
+      "title": "Le Pietre Più Pregiate\ndel Mondo",
+      "subtitle": "Selezionate dalle cave più prestigiose al mondo, scelte da tre generazioni di esperienza.",
+      "cta": "Tutti i Materiali"
+    },
+    "about_teaser": {
+      "label": "La Nostra Storia",
+      "title": "Una Famiglia Dedicata all'Arte della Pietra",
+      "body": "Dal 1950, la famiglia Tirrenia Marmi opera dal cuore di Pietrasanta — la capitale toscana del marmo — fornendo ad architetti, designer e imprenditori di tutto il mondo pietre naturali di eccezionale qualità.",
+      "detail": "Pietrasanta, Lucca — Italia",
+      "cta": "Scopri la Nostra Storia"
+    },
+    "finishes": {
+      "label": "Artigianalità",
+      "title": "Finiture Esclusive",
+      "subtitle": "Ogni lavorazione rivela un carattere diverso della pietra.",
+      "cannettato_name": "Cannettato",
+      "cannettato_desc": "Una raffinata finitura scanalata che crea un gioco ritmico di luci e ombre sulla superficie.",
+      "rigato_name": "Rigato",
+      "rigato_desc": "Delicate striature parallele che esaltano la grana e la texture naturale della pietra.",
+      "spazzolato_name": "Spazzolato",
+      "spazzolato_desc": "Una superficie spazzolata che ammorbidisce il carattere della pietra preservandone la bellezza naturale."
+    },
+    "projects": {
+      "label": "Applicazioni",
+      "title": "La Pietra nel Mondo",
+      "subtitle": "Dalle residenze private all'architettura di prestigio.",
+      "cta": "Tutti i Progetti"
+    },
+    "cta_band": {
+      "title": "Inizia il Tuo Progetto.",
+      "subtitle": "Il nostro team è pronto a guidarti dalla selezione del materiale alla posa finale.",
+      "cta": "Contattaci"
+    }
+  },
+  "about": {
+    "hero": {
+      "label": "La Nostra Storia",
+      "title": "Un'Eredità\nScolpita nella Pietra"
+    },
+    "intro": {
+      "label": "Dal 1950",
+      "title": "Tre Generazioni di Eccellenza",
+      "body": "Tirrenia Marmi nasce nel cuore di Pietrasanta, città da secoli sinonimo di lavorazione artistica del marmo. Fondata negli anni '50, la nostra azienda familiare è cresciuta da fornitore locale a uno dei nomi più rispettati in Italia nel settore della pietra naturale di pregio — al servizio di architetti, designer e rivenditori di tutto il mondo.\n\nOggi la terza generazione porta avanti la tradizione: la stessa passione per la qualità, le stesse relazioni personali con le migliori cave italiane ed estere, e gli stessi standard indefettibili che ci contraddistinguono da oltre settant'anni."
+    },
+    "timeline": {
+      "label": "La Nostra Storia",
+      "title": "Decenni di Eccellenza",
+      "1950s_year": "Anni '50",
+      "1950s_title": "Gli Inizi",
+      "1950s_desc": "Fondata a Pietrasanta, storica capitale toscana del marmo, dalla prima generazione della famiglia.",
+      "1970s_year": "Anni '70",
+      "1970s_title": "Crescita Internazionale",
+      "1970s_desc": "Arrivano le prime commesse internazionali. Tirrenia Marmi inizia a fornire pietra pregiata a clienti di tutta Europa.",
+      "1990s_year": "Anni '90",
+      "1990s_title": "Nuovo Stabilimento",
+      "1990s_desc": "Viene realizzato un moderno stabilimento produttivo di 14.400 mq con tecnologie all'avanguardia.",
+      "2000s_year": "Anni 2000",
+      "2000s_title": "Materiali Esclusivi",
+      "2000s_desc": "Sviluppo di materiali esclusivi proprietari: Nero Etrusco, Intrigo e Bianco Vietnamita entrano in collezione.",
+      "today_year": "Oggi",
+      "today_title": "Terza Generazione",
+      "today_desc": "La terza generazione guida l'azienda con gli stessi valori: qualità, integrità e un profondo amore per la pietra naturale."
+    },
+    "facility": {
+      "label": "Il Nostro Stabilimento",
+      "title": "14.400 mq di Competenza",
+      "body": "Il nostro stabilimento a Pietrasanta unisce scala industriale e precisione artigianale. Dallo stoccaggio dei blocchi alla lavorazione delle lastre, dalle linee di lucidatura alle finiture personalizzate, ogni fase del percorso della pietra è curata con attenzione.",
+      "stat1": "14.400",
+      "stat1_label": "Metri Quadri",
+      "stat2": "70+",
+      "stat2_label": "Anni di Attività",
+      "stat3": "Globale",
+      "stat3_label": "Distribuzione"
+    },
+    "values": {
+      "label": "I Nostri Valori",
+      "title": "Ciò in Cui Crediamo",
+      "craft_title": "Artigianalità",
+      "craft_desc": "Ogni pezzo di pietra viene trattato con la cura e la competenza costruite nel corso di generazioni di esperienza a Pietrasanta.",
+      "heritage_title": "Tradizione",
+      "heritage_desc": "Settant'anni di rapporti fiduciari con le migliori cave al mondo e i clienti più esigenti.",
+      "precision_title": "Precisione",
+      "precision_desc": "Dalla selezione del blocco alla finitura finale, applichiamo i più alti standard in ogni fase del processo."
+    }
+  },
+  "materials": {
+    "hero": {
+      "label": "Materiali",
+      "title": "I Capolavori\ndella Natura"
+    },
+    "intro": "Sei famiglie di pietra naturale. Ognuna con il proprio carattere, origine e storia.",
+    "filter_all": "Tutti",
+    "view_detail": "Scopri",
+    "origin_label": "Origine",
+    "finishes_label": "Finiture Disponibili",
+    "uses_label": "Usi Consigliati",
+    "related_label": "Materiali Correlati",
+    "quote_cta": "Richiedi un Preventivo",
+    "back": "← Torna ai Materiali"
+  },
+  "projects": {
+    "hero": {
+      "label": "Applicazioni",
+      "title": "La Pietra in\nOgni Spazio"
+    },
+    "intro": "Dalle residenze private all'architettura di prestigio — la nostra pietra dà forma agli spazi che le persone abitano.",
+    "filter_all": "Tutti",
+    "material_label": "Materiale",
+    "location_label": "Località",
+    "type_architecture": "Architettura",
+    "type_interior": "Interior Design",
+    "type_hospitality": "Hospitality",
+    "type_residential": "Residenziale"
+  },
+  "contact": {
+    "hero": {
+      "label": "Contatti",
+      "title": "Lavoriamo\nInsieme"
+    },
+    "info": {
+      "title": "Tirrenia Marmi",
+      "address_label": "Indirizzo",
+      "address": "Via Provinciale Vallecchia, 278\n55045 Pietrasanta (LU), Italia",
+      "phone_label": "Telefono",
+      "email_label": "Email",
+      "hours_label": "Orari",
+      "hours": "Lun–Ven, 8:00–17:00"
+    },
+    "form": {
+      "title": "Invia un Messaggio",
+      "name": "Nome e Cognome",
+      "name_placeholder": "Il tuo nome",
+      "company": "Azienda",
+      "company_placeholder": "La tua azienda (opzionale)",
+      "email": "Indirizzo Email",
+      "email_placeholder": "tua@email.com",
+      "phone": "Telefono",
+      "phone_placeholder": "+39 000 000 0000 (opzionale)",
+      "subject": "Oggetto",
+      "subject_general": "Informazioni Generali",
+      "subject_quote": "Richiesta di Preventivo",
+      "subject_sample": "Richiesta Campione Materiale",
+      "message": "Messaggio",
+      "message_placeholder": "Raccontaci del tuo progetto...",
+      "submit": "Invia Messaggio",
+      "success_title": "Messaggio Inviato",
+      "success_body": "Grazie per averci contattato. Ti risponderemo entro 24 ore.",
+      "error": "Qualcosa è andato storto. Riprova o scrivici direttamente."
+    }
+  },
+  "common": {
+    "learn_more": "Scopri di più",
+    "view_all": "Vedi Tutti",
+    "back": "Indietro",
+    "loading": "Caricamento...",
+    "locale_en": "EN",
+    "locale_it": "IT"
+  },
+  "footer": {
+    "tagline": "Pietra naturale pregiata dal cuore della Toscana.",
+    "nav_label": "Navigazione",
+    "contact_label": "Contatti",
+    "social_label": "Seguici",
+    "copyright": "© {year} Tirrenia Marmi S.r.l. Tutti i diritti riservati."
+  }
+}

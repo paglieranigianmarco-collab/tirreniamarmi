@@ -1,0 +1,195 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "Our Story",
+    "materials": "Materials",
+    "projects": "Projects",
+    "contact": "Contact",
+    "cta": "Get in Touch"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Pietrasanta, Tuscany — Est. 1950s",
+      "headline": "Stone\nas Art.",
+      "subheadline": "Three generations. One obsession: the finest Italian marble.",
+      "cta_primary": "Discover Materials",
+      "cta_secondary": "Our Story"
+    },
+    "stats": {
+      "years": "70+",
+      "years_label": "Years of Mastery",
+      "sqm": "14,400",
+      "sqm_label": "sq.m. Facility",
+      "families": "6+",
+      "families_label": "Stone Families",
+      "finishes": "3",
+      "finishes_label": "Exclusive Finishes"
+    },
+    "featured_materials": {
+      "label": "Materials",
+      "title": "The World's Finest\nNatural Stone",
+      "subtitle": "Sourced from the world's most prestigious quarries, selected by three generations of expertise.",
+      "cta": "View All Materials"
+    },
+    "about_teaser": {
+      "label": "Our Story",
+      "title": "A Family's Lifetime Dedication to Stone",
+      "body": "Since the 1950s, the Tirrenia Marmi family has operated from the heart of Pietrasanta — the marble capital of Tuscany — supplying the world's most demanding architects, designers and contractors with exceptional natural stone.",
+      "detail": "Pietrasanta, Lucca — Italy",
+      "cta": "Discover Our Heritage"
+    },
+    "finishes": {
+      "label": "Craftsmanship",
+      "title": "Exclusive Finishes",
+      "subtitle": "Each surface treatment reveals a different character of the stone.",
+      "cannettato_name": "Cannettato",
+      "cannettato_desc": "A refined fluted finish that creates a rhythmic play of light and shadow across the surface.",
+      "rigato_name": "Rigato",
+      "rigato_desc": "Delicate parallel striations that emphasize the natural grain and texture of the stone.",
+      "spazzolato_name": "Spazzolato",
+      "spazzolato_desc": "A brushed surface that softens the stone's character while preserving its natural beauty."
+    },
+    "projects": {
+      "label": "Applications",
+      "title": "Stone in the World",
+      "subtitle": "From private residences to landmark architecture.",
+      "cta": "View All Projects"
+    },
+    "cta_band": {
+      "title": "Begin Your Project.",
+      "subtitle": "Our team is ready to guide you from material selection to final installation.",
+      "cta": "Contact Us"
+    }
+  },
+  "about": {
+    "hero": {
+      "label": "Our Story",
+      "title": "A Heritage\nCut in Stone"
+    },
+    "intro": {
+      "label": "Since the 1950s",
+      "title": "Three Generations of Excellence",
+      "body": "Tirrenia Marmi was born in the heart of Pietrasanta, a town synonymous with marble craftsmanship for centuries. Founded in the 1950s, our family business has grown from a local stone supplier into one of Italy's most respected names in premium natural stone — serving architects, designers and stone dealers across the globe.\n\nToday, the third generation continues the tradition: the same passion for quality, the same personal relationships with the finest quarries in Italy and abroad, and the same uncompromising standards that have defined us for over seventy years."
+    },
+    "timeline": {
+      "label": "Our History",
+      "title": "Decades of Excellence",
+      "1950s_year": "1950s",
+      "1950s_title": "The Beginning",
+      "1950s_desc": "Founded in Pietrasanta, the historic marble capital of Tuscany, by the first generation of the family.",
+      "1970s_year": "1970s",
+      "1970s_title": "International Growth",
+      "1970s_desc": "First international commissions arrive. Tirrenia Marmi begins supplying premium stone to clients across Europe.",
+      "1990s_year": "1990s",
+      "1990s_title": "New Facility",
+      "1990s_desc": "A state-of-the-art 14,400 sq.m. production facility is established, with cutting-edge stone processing technology.",
+      "2000s_year": "2000s",
+      "2000s_title": "Exclusive Materials",
+      "2000s_desc": "Development of exclusive proprietary materials: Nero Etrusco, Intrigo and Bianco Vietnamita join the collection.",
+      "today_year": "Today",
+      "today_title": "Third Generation",
+      "today_desc": "The third generation leads with the same values: quality, integrity, and a deep love for natural stone."
+    },
+    "facility": {
+      "label": "Our Facility",
+      "title": "14,400 sq.m. of Expertise",
+      "body": "Our facility in Pietrasanta combines industrial scale with artisan precision. From block storage to slab processing, polishing lines to custom finishing, every step of the stone's journey is handled with care.",
+      "stat1": "14,400",
+      "stat1_label": "Square Metres",
+      "stat2": "70+",
+      "stat2_label": "Years Operating",
+      "stat3": "Global",
+      "stat3_label": "Distribution"
+    },
+    "values": {
+      "label": "Our Values",
+      "title": "What We Stand For",
+      "craft_title": "Craftsmanship",
+      "craft_desc": "Every piece of stone is treated with the attention and skill built over generations of expertise in Pietrasanta.",
+      "heritage_title": "Heritage",
+      "heritage_desc": "Seventy years of trusted relationships with the world's finest quarries and the most demanding clients.",
+      "precision_title": "Precision",
+      "precision_desc": "From block selection to final finish, we apply the highest standards at every step of the process."
+    }
+  },
+  "materials": {
+    "hero": {
+      "label": "Materials",
+      "title": "Nature's\nMasterpieces"
+    },
+    "intro": "Six families of natural stone. Each with its own character, origin and story.",
+    "filter_all": "All",
+    "view_detail": "Discover",
+    "origin_label": "Origin",
+    "finishes_label": "Available Finishes",
+    "uses_label": "Recommended Uses",
+    "related_label": "Related Materials",
+    "quote_cta": "Request a Quote",
+    "back": "← Back to Materials"
+  },
+  "projects": {
+    "hero": {
+      "label": "Applications",
+      "title": "Stone in\nEvery Space"
+    },
+    "intro": "From private residences to landmark architecture — our stone shapes the spaces people inhabit.",
+    "filter_all": "All",
+    "material_label": "Material",
+    "location_label": "Location",
+    "type_architecture": "Architecture",
+    "type_interior": "Interior Design",
+    "type_hospitality": "Hospitality",
+    "type_residential": "Residential"
+  },
+  "contact": {
+    "hero": {
+      "label": "Contact",
+      "title": "Let's Work\nTogether"
+    },
+    "info": {
+      "title": "Tirrenia Marmi",
+      "address_label": "Address",
+      "address": "Via Provinciale Vallecchia, 278\n55045 Pietrasanta (LU), Italy",
+      "phone_label": "Phone",
+      "email_label": "Email",
+      "hours_label": "Hours",
+      "hours": "Mon–Fri, 8:00–17:00"
+    },
+    "form": {
+      "title": "Send a Message",
+      "name": "Full Name",
+      "name_placeholder": "Your name",
+      "company": "Company",
+      "company_placeholder": "Your company (optional)",
+      "email": "Email Address",
+      "email_placeholder": "your@email.com",
+      "phone": "Phone",
+      "phone_placeholder": "+1 234 567 890 (optional)",
+      "subject": "Subject",
+      "subject_general": "General Enquiry",
+      "subject_quote": "Project Quote",
+      "subject_sample": "Material Sample Request",
+      "message": "Message",
+      "message_placeholder": "Tell us about your project...",
+      "submit": "Send Message",
+      "success_title": "Message Sent",
+      "success_body": "Thank you for reaching out. We will get back to you within 24 hours.",
+      "error": "Something went wrong. Please try again or email us directly."
+    }
+  },
+  "common": {
+    "learn_more": "Learn More",
+    "view_all": "View All",
+    "back": "Back",
+    "loading": "Loading...",
+    "locale_en": "EN",
+    "locale_it": "IT"
+  },
+  "footer": {
+    "tagline": "Premium natural stone from the heart of Tuscany.",
+    "nav_label": "Navigation",
+    "contact_label": "Contact",
+    "social_label": "Follow Us",
+    "copyright": "© {year} Tirrenia Marmi S.r.l. All rights reserved."
+  }
+}
