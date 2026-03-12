@@ -23,6 +23,7 @@ export default function Header() {
     { href: `/${locale}/about`, label: t("about") },
     { href: `/${locale}/materials`, label: t("materials") },
     { href: `/${locale}/projects`, label: t("projects") },
+    { href: `/${locale}/configuratore`, label: t("configurator") },
     { href: `/${locale}/contact`, label: t("contact") },
   ];
 

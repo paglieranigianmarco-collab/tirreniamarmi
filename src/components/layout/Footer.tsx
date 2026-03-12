@@ -33,6 +33,7 @@ export default function Footer() {
                 { href: `/${locale}/about`, label: tNav("about") },
                 { href: `/${locale}/materials`, label: tNav("materials") },
                 { href: `/${locale}/projects`, label: tNav("projects") },
+                { href: `/${locale}/configuratore`, label: tNav("configurator") },
                 { href: `/${locale}/contact`, label: tNav("contact") },
               ].map((link) => (
                 <Link
